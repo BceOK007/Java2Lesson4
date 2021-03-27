@@ -1,0 +1,14 @@
+@import "textArea.css";
+
+.root{
+    -fx-font-size: 14;
+}
+
+.button{
+    -fx-background-color: #ff9d7f;
+}
+
+.button:hover{
+    /*-fx-background-color: #07ff05;*/
+    -fx-font-weight: bold;
+}

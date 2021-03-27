@@ -1,0 +1,5 @@
+.text-area{
+    -fx-font-size: 16;
+    -fx-control-inner-background: #e9fab9;
+    -fx-text-fill: #4c2b2b;
+}
