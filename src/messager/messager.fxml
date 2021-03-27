@@ -22,7 +22,7 @@
     <AnchorPane>
         <HBox spacing="45" HBox.hgrow="ALWAYS">
             <TextField fx:id="textField" onAction="#clickSend" prefWidth="600"/>
-            <Button alignment="BOTTOM_RIGHT" onAction="#clickSend" text="send" textAlignment="CENTER"/>
+            <Button alignment="BOTTOM_RIGHT" onAction="#clickSend"/>
         </HBox>
     </AnchorPane>
 

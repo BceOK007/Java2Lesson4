@@ -12,10 +12,6 @@ public class Controller {
     @FXML
     private TextArea textArea;
 
-    @FXML
-    public void clickBtn1(ActionEvent actionEvent) {
-        System.out.println("Hello World");
-    }
 
     @FXML
     public void clickSend(ActionEvent actionEvent) {
