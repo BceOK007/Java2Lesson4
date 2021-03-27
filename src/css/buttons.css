@@ -1,0 +1,12 @@
+.button{
+    -fx-background-color: #ff9d7f;
+}
+
+.button:hover{
+    -fx-font-weight: bold;
+}
+
+#sendButton{
+    -fx-background-image: url("/images/img_btn_send.jpg");
+    -fx-background-size: 100% 100%;
+}
